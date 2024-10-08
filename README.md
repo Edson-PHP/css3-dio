@@ -1,6 +1,6 @@
 # ⚡ Projeto - Landing Page - CSS3
 
-## 🚀 Bem-vindo ao projeto - Bootcamp Hi Happy!
+## 🚀 Bem-vindo ao projeto - Bootcamp Ri Happy!
 
 Este site foi desenvolvido com:
 
